@@ -83,7 +83,7 @@ const IMAGE_BUTTON_CONFIRM_ORDER = 'Confirmar Pedido';
 const IMAGE_BUTTON_CONTINUE = 'Continuar';
 const IMAGE_BUTTON_DELETE = 'Eliminar';
 const IMAGE_BUTTON_LOGIN = 'Entrar';
-const IMAGE_BUTTON_IN_CART = 'Añadir a la Cesta';
+const IMAGE_BUTTON_IN_CART = 'Añadir al Carrito';
 const IMAGE_BUTTON_SEARCH = 'Buscar';
 const IMAGE_BUTTON_UPDATE = 'Actualizar';
 const IMAGE_BUTTON_UPDATE_PREFERENCES = 'Actualizar preferencias';
@@ -164,6 +164,6 @@ const LINK_TEXT_EDIT = '<small><a class="%s" href="%s">Editar</a></small>';
 const SHIPPING_FA_ICON = '<i class="fas fa-shipping-fast fa-fw fa-3x float-right text-black-50"></i>';
 const PAYMENT_FA_ICON = '<i class="fas fa-file-invoice-dollar fa-fw fa-3x float-right text-black-50"></i>';
 
-const ENTRY_COMMENTS = 'Algo que deberíamos saber?';
+const ENTRY_COMMENTS = '¿Algo que deberíamos saber?';
 const ENTRY_COMMENTS_PLACEHOLDER = 'Comentario aquí...';
 const TABLE_HEADING_OR = '-o-';

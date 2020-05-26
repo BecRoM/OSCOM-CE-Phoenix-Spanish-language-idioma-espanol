@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2013 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -25,11 +25,10 @@ define('ENTRY_REVIEW', 'Comentario:');
 define('ENTRY_REVIEW_TEXT', '<span class="text-danger font-weight-bold">NOTE:</span> ¡El código HTML no se interpretará!');
 define('ENTRY_RATING', 'Valoración:');
 
-define('TEXT_INFO_DELETE_REVIEW_INTRO', 'Seguro que desea eliminar este comentario?');
+define('TEXT_INFO_DELETE_REVIEW_INTRO', '¿Seguro que desea eliminar este comentario?');
 
 define('TEXT_INFO_DATE_ADDED', 'Fecha Alta: %s');
 define('TEXT_INFO_LAST_MODIFIED', 'Última Modificación: %s');
-define('TEXT_INFO_IMAGE_NONEXISTENT', 'NO EXISTE IMAGEN');
 define('TEXT_INFO_REVIEW_AUTHOR', 'Autor: %s');
 define('TEXT_INFO_REVIEW_RATING', 'Valoración: %s');
 define('TEXT_INFO_REVIEW_READ', 'Leido: %s');
